@@ -4,7 +4,7 @@
 
 This is my professional website built with React on the Gatsby Framework. It's open source so feel free to use it. You could view the website at:
 ### noorahmad.me
-### Install
+### Deploy
 
 ```sh
 $ git clone https://github.com/noorahmad/website.git
@@ -14,4 +14,3 @@ $ npm install -g gatsby
 $ gatsby develop
 ```
 From there navigate to your browser and open up localhost:8000
-Feedback is very welcome!
